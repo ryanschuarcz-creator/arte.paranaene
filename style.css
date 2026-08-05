@@ -1,1 +1,25 @@
+body{
+    background-color: aqua;
+    color: #222
+    fonte-family: Arial, sans-serif;
+}
+header{
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    teste-align:center;
+    padding: 30px;
+}
+h1{
+    font-size 36px;
+
+}
+h2 {
+    color:azure;
+    }
+    p {
+        font-size:18px;
+        line-height 1.6;
+    }
+
+
 
