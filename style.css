@@ -1,7 +1,7 @@
 body{
     background-color: aqua;
     color: #222
-    fonte-family: Arial, sans-serif;
+    fonte-family Arial, sans-serif;
 }
 header{
     background-color: aqua;
@@ -10,7 +10,7 @@ header{
     padding: 30px;
 }
 h1{
-    font-size 36px;
+    font-size: 36px;
 
 }
 h2 {
@@ -18,7 +18,7 @@ h2 {
     }
     p {
         font-size:18px;
-        line-height 1.6;
+        line-height: 1.6;
     }
 
 
